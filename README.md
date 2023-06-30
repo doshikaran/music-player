@@ -34,6 +34,7 @@ Open http://localhost:3000 with your browser to see the result. You can start ed
 ## Features
 
 - Login and Sign Up: Users can create an account and authenticate themselves to access their personalized music library.
+- Add songs from your device ( mp3 file )
 - Play, pause, and control music playback.
 - Create and manage playlists.
 - Add songs to favorites.
